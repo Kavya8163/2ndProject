@@ -21,3 +21,4 @@ public class Exceptions {
 	
 
 }
+SYSTEM>OUT>PRNTLN("CHANGE THE EXCEPTION")
